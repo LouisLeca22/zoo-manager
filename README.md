@@ -20,11 +20,11 @@ weight | Poid de l'animal | booléen | - | Animal |
 
 # Modèle de Conception des Données
 
-<img src="./mcd.svg" />
+<img src="./docs/mcd.svg" />
 
 # Modèle Logique des Données 
 
-<img src="mld.png" />
+<img src="./docs/mld.png" />
 
 # Dictionnaire de données
 
