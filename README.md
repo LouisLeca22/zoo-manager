@@ -24,7 +24,7 @@ weight | Poid de l'animal | booléen | - | Animal |
 
 # Modèle Logique des Données 
 
-<img src="./docs/MLD.png" />
+<img src="./docs/mld.png" />
 
 # Dictionnaire de données
 
