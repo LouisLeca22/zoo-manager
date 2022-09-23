@@ -1,0 +1,31 @@
+{
+  "width": 349,
+  "height": 423,
+  "cx": [
+    [ "zookeeper", 69 ],
+    [ "PREND SOIN DE", 210 ],
+    [ "animal", 69 ],
+    [ "MANGE", 210 ],
+    [ "food", 306 ],
+    [ "PREND", 69 ],
+    [ "medicine", 210 ]
+  ],
+  "cy": [
+    [ "zookeeper", 51 ],
+    [ "PREND SOIN DE", 51 ],
+    [ "animal", 220 ],
+    [ "MANGE", 220 ],
+    [ "food", 220 ],
+    [ "PREND", 372 ],
+    [ "medicine", 372 ]
+  ],
+  "shift": [
+    [ "PREND SOIN DE,animal,0", 0 ],
+    [ "PREND SOIN DE,zookeeper,0", 0 ],
+    [ "MANGE,food,0", 0 ],
+    [ "MANGE,animal,0", 0 ],
+    [ "PREND,medicine,0", 0 ],
+    [ "PREND,animal,0", 0 ]
+  ],
+  "ratio": []
+}

@@ -1,0 +1,11 @@
+zookeeper: codeZookeeper, prénom, nom
+PREND SOIN DE, 11 animal, 0N zookeeper
+
+
+animal: codeAnimal, nom, classe, type, age, date de naissance, genre, coût de maintient, visiteurs par mois, poids
+MANGE, 0N food, 1N animal
+food: codeFood, repas, quantité
+
+PREND, 01 medicine, 11 animal
+medicine: codeMedicine, solution, dose
+
